@@ -1,0 +1,8 @@
+#needed libraries to build a app
+streamlit
+opencv-python
+numpy
+tensorflow
+pyttsx3
+mysql-connector-python
+pandas
