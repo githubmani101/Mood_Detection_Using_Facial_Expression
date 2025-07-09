@@ -15,6 +15,7 @@ This research project focuses on building a real-time facial mood detection syst
 The model includes:
 - Conv2D, MaxPooling2D, Dropout, and BatchNorm layers
 - Final SoftMax layer for classification into 5 classes
+
 I have added the Architecture of model i used for my research as **CNN Architecture.png** in this github repository.
 
 ## Application Flow
@@ -45,4 +46,5 @@ I have added the application flow of my mood detection system as **Application F
 - Journal: IRJMETS – International Research Journal of Modernization in Engineering Technology and Science
 - Volume 07, Issue 06, June 2025
 - DOI: [https://www.doi.org/10.56726/IRJMETS80333]
+
 I have added the my published reasech paper whole pdf as **Published research Paper.pdf** in this github repository.
