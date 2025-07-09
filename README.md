@@ -57,3 +57,7 @@ University of Mumbai, Sindhudurg Sub Campus
 
 ## ⚠️ Disclaimer
 Due to academic privacy, the complete code and model are not included in this repository. For further details or collaboration, feel free to contact the author via LinkedIn.
+
+🔗 LinkedIn
+Feel free to connect with me on LinkedIn below is my LinkedIn Profile ID
+-- (www.linkedin.com/in/manisha-agarwadekar-781983293)
