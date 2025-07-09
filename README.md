@@ -48,3 +48,12 @@ I have added the application flow of my mood detection system as **Application F
 - DOI: [https://www.doi.org/10.56726/IRJMETS80333]
 
 I have added the my published reasech paper whole pdf as **Published research Paper.pdf** in this github repository.
+
+## Author 
+Miss. Manisha Raghoba Agarwadekar
+Student, 
+Dept. of Information Technology
+University of Mumbai, Sindhudurg Sub Campus
+
+## ⚠️ Disclaimer
+Due to academic privacy, the complete code and model are not included in this repository. For further details or collaboration, feel free to contact the author via LinkedIn.
